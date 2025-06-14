@@ -1,0 +1,1 @@
+console.table([typeof null,typeof undefined]);
